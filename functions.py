@@ -23,9 +23,5 @@ Args:
 Returns:
   The result of num1 and num2.
 """
-<<<<<<< HEAD
 def multiply(num1, num2):
-=======
-def multiply(num1, mun2):
->>>>>>> fe3ff32 (#1 add documentation)
   return num1 * num2
