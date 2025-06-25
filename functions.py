@@ -13,3 +13,5 @@ def add(num1, num2):
 def submarine(num1, numb2):
   return num2 - num1
 
+def multiply(num1, mun2):
+  return num1 * num2
