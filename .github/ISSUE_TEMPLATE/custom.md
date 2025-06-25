@@ -21,13 +21,11 @@ assignees: cutierobot
 ```
 
 # Step 2
-# Step 1
 ```python
 
 ```
 
 # Final Result
-# Step 1
 ```python
 
 ```
