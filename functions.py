@@ -13,3 +13,15 @@ def add(num1, num2):
 def submarine(num1, numb2):
   return num2 - num1
 
+"""
+This function takes two numbers as input and returns result.
+
+Args:
+  num1: The first number.
+  num2: The second number.
+
+Returns:
+  The result of num1 and num2.
+"""
+def multiply(num1, num2):
+  return num1 * num2
